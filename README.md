@@ -1,7 +1,7 @@
 
 SPARKS Foundation  
 The Sparks Foundation Internship Project : Payment Gateway Integration<br>
-A Dynamic Website is used to collect Donation for poor and needy people.<br>
+A Dynamic Website is used to collect Donation for Covid Victims.<br>
 Stack used -<br>
 Front-end : HTML, CSS, Bootstrap & Javascript<br>
 Back-end : PHP<br>
