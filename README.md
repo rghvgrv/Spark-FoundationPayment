@@ -12,7 +12,7 @@ The doner recieves the transaction Mail within seconds after successful payment<
 
 The website is FULL RESPONSIVE <br>
 It can operate on any device <br>
-
+ 
 
 
 
